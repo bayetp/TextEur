@@ -1,5 +1,5 @@
 # TextEur
- Mobile application that aims to recognize text.
+ Mobile application that aims to recognize text. Create by Android Studio.
 
 Install:
 Download the .apk.
